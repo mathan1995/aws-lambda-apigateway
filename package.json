@@ -1,0 +1,23 @@
+{
+  "name": "aws_lambda-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mathan1995/aws-lambda-apigateway.git"
+  },
+  "author": "mathan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mathan1995/aws-lambda-apigateway/issues"
+  },
+  "homepage": "https://github.com/mathan1995/aws-lambda-apigateway#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1048.0",
+    "serverless-iam-roles-per-function": "^3.2.0"
+  }
+}
