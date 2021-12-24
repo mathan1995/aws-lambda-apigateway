@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-aws-sdk@^2.1048.0:
-  version "2.1048.0"
-  resolved "https://registry.yarnpkg.com/aws-sdk/-/aws-sdk-2.1048.0.tgz#02f2f35e0f51dd4510462e05c7a48fd4649d33f8"
-  integrity sha512-mVwWo+Udiuc/yEZ/DgJQGqOEtfiQjgUdtshx/t6ISe3+jW3TF9hUACwADwx2Sr/fuJyyJ3QD5JYLt5Cw35wQpA==
+aws-sdk@^2.897.0:
+  version "2.897.0"
+  resolved "https://registry.yarnpkg.com/aws-sdk/-/aws-sdk-2.897.0.tgz#cb3594639bd57badd4908870d7f77f814f6a3166"
+  integrity sha512-GnjnZ5kgmeGe1BW+wsfRJ8Hu5mU7py/GBLXikSgtNPbMmF66yTMfND99hpS5U7m3SSaHG0qBYGVySC7Z+U1AJA==
   dependencies:
     buffer "4.9.2"
     events "1.1.1"
@@ -81,10 +81,10 @@ sax@>=0.6.0:
   resolved "https://registry.yarnpkg.com/sax/-/sax-1.2.4.tgz#2816234e2378bddc4e5354fab5caa895df7100d9"
   integrity sha512-NqVDv9TpANUjFm0N8uM5GxL36UgKi9/atZw+x7YFnQ8ckwFGKrl4xX4yWtrey3UJm5nP1kUbnYgLopqWNSRhWw==
 
-serverless-iam-roles-per-function@^3.2.0:
-  version "3.2.0"
-  resolved "https://registry.yarnpkg.com/serverless-iam-roles-per-function/-/serverless-iam-roles-per-function-3.2.0.tgz#8bb5f68e73f391ac8ff9809b8e7726e5bafba4c4"
-  integrity sha512-AXmxACHEUsDcFDcv8QNwDgn2L0brRJ7pz/phD3lFB/wQ3TtPJkorC+J7PxgFQbaWIQk15EIlU83BtKXeQoPTAg==
+serverless-iam-roles-per-function@^3.1.0:
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/serverless-iam-roles-per-function/-/serverless-iam-roles-per-function-3.1.0.tgz#3bd87011234641f4e4883b1a8aeecb8610ac71c5"
+  integrity sha512-/kNfT169FOOrYtkN6WV3fU9Nt0E2pku/1Vio1My82iKnbUQ9Bx35PSOvdRS32e7mLVwbdwZ5ecMKG1lpsuQLoA==
   dependencies:
     lodash "^4.17.20"
 
